@@ -1,0 +1,6 @@
+rm
+modify
+rm -f
+rm after commit
+dev branch 自动跟踪(git push)
+--set-upstream(上游)

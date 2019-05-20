@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 12px;
+    font-family: '宋体', Arial, Helvetica, sans-serif;
+    color: rgb(153, 153, 153);
+}
+
+.nav {
+    width: 100%;
+    min-width: 1100px;
+    background: #017f40;
+    position: fixed;
+    top: 0;
+    z-index: 999;
+}
+
+.nav ul {
+    margin: 0 auto;
+    width: 1100px;
+    height: 50px;
+    background: #017f40;
+    list-style: none;
+}
+
+.nav ul li {
+    display: inline-block;
+    padding: 0 50px;
+    font-size: 18px;
+    font-weight: bolder;
+    line-height: 50px;
+    color: white;
+    list-style: none;
+}
+
+.nav ul a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav ul a:hover {
+    background: yellow;
+}
+
+.active {
+    height: 50px;
+    background: yellow;
+}
