@@ -4,3 +4,4 @@ git进阶 --更全面的使用git
 移除功能
 修改远程仓库名称origin 为 wangsir
 rebase衍合应用
+rebase实践
