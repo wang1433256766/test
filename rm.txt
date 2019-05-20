@@ -1,0 +1,4 @@
+rm
+modify
+rm -f
+rm after commit
