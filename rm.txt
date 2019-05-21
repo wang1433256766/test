@@ -5,3 +5,4 @@ rm after commit
 dev branch 自动跟踪(git push)
 --set-upstream(上游)
 rebase应用
+修改test分支的内容
