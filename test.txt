@@ -10,3 +10,4 @@ only change test branch
 55555
 git fetch
 fetch&rebase时制造冲突
+git fetch combine rebase
