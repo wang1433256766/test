@@ -9,8 +9,6 @@ only change test branch
 只改变test分支 again
 55555
 git fetch
-<<<<<<< HEAD
 fetch&rebase时制造冲突
-=======
->>>>>>> temp
 git fetch combine rebase
+try last
