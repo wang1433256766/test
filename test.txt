@@ -12,3 +12,4 @@ git fetch
 fetch&rebase时制造冲突
 git fetch combine rebase
 不成功便成仁
+try last
