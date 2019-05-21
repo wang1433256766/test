@@ -7,3 +7,4 @@ update testbranch again
 第三次修改test分支
 only change test branch
 只改变test分支 again
+git fetch
