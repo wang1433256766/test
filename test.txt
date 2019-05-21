@@ -2,3 +2,4 @@ test change
 opt after commit
 reset HEAD
 设置了dev分支的上游分支后，是否改变master分支的默认上游
+rebase 试用
